@@ -1,0 +1,9 @@
+---
+toc: true
+format: 
+  html: 
+    sidebar: true
+    anchor-sections: true
+---
+
+# Pollination Ecology Group {style="text-align: center;"}

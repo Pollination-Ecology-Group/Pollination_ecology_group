@@ -1,0 +1,60 @@
+project:
+  output-dir: ./docs
+  type: website
+  render:
+    - "*.qmd"
+    - "!archive/"
+  
+website:
+  page-navigation: true
+  navbar:
+    logo-alt: "Pollination Ecology Group"
+    background: rgb(64,	105,	91)
+    left:
+      - href: index.qmd#about
+        text: "About" 
+      - href: index.qmd#registration
+        text: "Registration"     
+      - href: index.qmd#program
+        text: "Programme"
+      - href: index.qmd#venue
+        text: "Venue" 
+      - href: index.qmd#organisation
+        text: "Organisation committee"         
+      - href: index.qmd#contact
+        text: "Contact"
+    right:
+      - icon: github
+        href: https://github.com/Pollination-Ecology-Group/ECOFLOR2026
+      - icon: discord 
+        href: https://discord.gg/Ser2GRXgns  
+  
+  page-footer: 
+    left: "Made by Jakub Štenc and Quarto" 
+    right: 
+      - icon: github
+        href: https://github.com/Pollination-Ecology-Group
+      - icon: discord 
+        href: https://discord.gg/Ser2GRXgns
+      - icon: instagram
+        href: https://www.instagram.com/ecoflor2026/
+
+#  announcement:
+#    icon: info-circle
+#    dismissable: true
+#    content: ""
+#    type: light
+#    position: below-navbar
+#  back-to-top-navigation: true
+
+format:
+  html:
+    fontsize: 1.15rem
+    monofont: Fira Code
+    highlight-style: arrow
+    css: [custom_theme.scss]
+    toc: false
+    code-overflow: scroll
+    linkcolor: rgb(97,30,30)
+    background: #40695B
+    toc-depth: 5
