@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "Pollination_Ecology_Group.html",
-    "href": "Pollination_Ecology_Group.html",
-    "title": "Pollination Ecology Group",
-    "section": "",
-    "text": "Pollination Ecology Group is a research group based in Prague at the Faculty of Science, Charles University. Our main goal is to investigate plant-pollinator interactions. We are interested in how these interactions shape plant and pollinator communities, how they are affected by environmental changes, and how they can be managed for conservation purposes.Quarto\n\n\n\n\nOur group is carring out a long-term study of plant-pollinator system in Central Bohemia region, near to village Vernýřov. We focused not only on relations between plants and pollinators, but also on spatial and temporal variability in plant-pollinator interactions of a grassy meadow. Moreover, deep knowledge of the system allows to us focus more on looking for answers on more delicate questions in pollination ecology."
-  },
-  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
@@ -21,10 +14,24 @@
     "text": "When you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   },
   {
+    "objectID": "Pollination_Ecology_Group.html",
+    "href": "Pollination_Ecology_Group.html",
+    "title": "Pollination Ecology Group",
+    "section": "",
+    "text": "Pollination Ecology Group is a research group based in Prague at the Faculty of Science, Charles University. Our main goal is to investigate plant-pollinator interactions. We are interested in how these interactions shape plant and pollinator communities, how they are affected by environmental changes, and how they can be managed for conservation purposes.\n\n\n\n\nOur group is carring out a long-term study of plant-pollinator system in Central Bohemia region, near to village Vernýřov. We focused not only on relations between plants and pollinators, but also on spatial and temporal variability in plant-pollinator interactions of a grassy meadow. Moreover, deep knowledge of the system allows to us focus more on looking for answers on more delicate questions in pollination ecology.\n\n\n\n\nJiří Hadrava"
+  },
+  {
     "objectID": "Pollination_Ecology_Group.html#topics",
     "href": "Pollination_Ecology_Group.html#topics",
     "title": "Pollination Ecology Group",
     "section": "",
     "text": "Our group is carring out a long-term study of plant-pollinator system in Central Bohemia region, near to village Vernýřov. We focused not only on relations between plants and pollinators, but also on spatial and temporal variability in plant-pollinator interactions of a grassy meadow. Moreover, deep knowledge of the system allows to us focus more on looking for answers on more delicate questions in pollination ecology."
+  },
+  {
+    "objectID": "Pollination_Ecology_Group.html#people",
+    "href": "Pollination_Ecology_Group.html#people",
+    "title": "Pollination Ecology Group",
+    "section": "",
+    "text": "Jiří Hadrava"
   }
 ]
