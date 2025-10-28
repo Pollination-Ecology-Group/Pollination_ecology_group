@@ -1,2 +1,2 @@
-# Pollination_ecology_group
-Web of  pollination ecology group
+# Pollination Ecology Group
+Web of the Pollination Ecology Group
