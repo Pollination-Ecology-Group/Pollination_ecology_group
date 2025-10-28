@@ -11,21 +11,23 @@ website:
     logo-alt: "Pollination Ecology Group"
     background: rgb(64,	105,	91)
     left:
-      - href: index.qmd#about
+      - href: Pollination_Ecology_Group.qmd#about
         text: "About" 
-      - href: index.qmd#registration
-        text: "Registration"     
-      - href: index.qmd#program
-        text: "Programme"
-      - href: index.qmd#venue
-        text: "Venue" 
-      - href: index.qmd#organisation
-        text: "Organisation committee"         
-      - href: index.qmd#contact
+      - href: news.qmd
+        text: "News" 
+      - href: Pollination_Ecology_Group.qmd#topics
+        text: "Topics"     
+      - href: Pollination_Ecology_Group.qmd#people
+        text: "People"
+      - href: Pollination_Ecology_Group.qmd#publications
+        text: "Publications" 
+      - href: Pollination_Ecology_Group.qmd#joinus
+        text: "Join us!"         
+      - href: Pollination_Ecology_Group.qmd#contact
         text: "Contact"
     right:
       - icon: github
-        href: https://github.com/Pollination-Ecology-Group/ECOFLOR2026
+        href: https://github.com/Pollination-Ecology-Group
       - icon: discord 
         href: https://discord.gg/Ser2GRXgns  
   
